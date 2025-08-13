@@ -48,7 +48,7 @@ class BERT(nn.Module):
             attn_mask=attn_mask,  # 注意力掩码
             split_position=split_position,  
         )
-        encoder_out["split_position"] = split_position  # 将多路分割位置添加到输出中
+        encoder_out["split_position"] = split_position  
 
         return encoder_out  # 返回编码器的输出
 
