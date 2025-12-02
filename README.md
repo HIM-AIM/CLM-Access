@@ -1,5 +1,5 @@
 
-# CLM-access:A specialized foundation model provides a brand-new solution for high-dimensional single-cell ATAC-seq data
+# CLM-Access: A Specialized Foundation Model for High-Dimensional Single-Cell ATAC-Seq analysis
 
 This repository is the official implementation of CLM-access:A specialized foundation model provides a brand-new solution for high-dimensional single-cell ATAC-seq data. 
 
